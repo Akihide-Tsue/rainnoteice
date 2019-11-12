@@ -17,7 +17,7 @@ PostgreSQL：10.1
 ## 作者
 津江明秀
 
-# 備忘
+## 備忘
 $ git add .  
 $ git commit -m "[コミットメッセージ]"  
 $ git push origin master  
