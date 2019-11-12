@@ -22,4 +22,4 @@ $ git add .
 $ git commit -m "[コミットメッセージ]"  
 $ git push origin master  
 $ git push heroku maste  
-$ heroku run rake db:migrate
+$ heroku run rake db:migrate  
