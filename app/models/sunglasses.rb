@@ -5,8 +5,7 @@ class Sunglasses
     # 本日が休日（土日・祝日）に当たるかの取得
     holiday_or_not = Holiday.holiday(Time.zone.today)
     if holiday_or_not
-      # 本日の天気の取得
-      weather = Weather.weather
+      weather = Weather.weather  # 本日の天気の取得
       if weather =~ /.*晴れ.*/
         word = Settings.word.warning
         client ||= Line::Bot::Client.new { |config|

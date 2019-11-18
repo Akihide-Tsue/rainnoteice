@@ -31,16 +31,15 @@ class LinebotController < ApplicationController
           # 当日朝のメッセージの送信の下限値は20％としているが、明日・明後日雨が降るかどうかの下限値は30％としている
           min_per = 30
           case input
-          # 開発者への匿名での意見送信機能
-          when /.*意見.*/
-            push =
-              "ご意見ありがとう！\nいただいた貴重なご意見は、誰が送ったのかは秘密で開発者に届けるからね！"
-            message2 = {
-              type: 'text',
-              text: "いただいたご意見↓\n#{input}"
-            }
-            dev_id = ENV["DEV_ID"]
-            response = client.push_message(dev_id, message2)
+          # when /.*意見.*/  # 開発者への匿名での意見送信機能
+          #   push =
+          #     "ご意見ありがとう！\nいただいた貴重なご意見は、誰が送ったのかは秘密で開発者に届けるからね！"
+          #   message2 = {
+          #     type: 'text',
+          #     text: "いただいたご意見↓\n#{input}"
+          #   }
+          #   dev_id = ENV["DEV_ID"]
+          #   response = client.push_message(dev_id, message2)
             # 「明日」or「あした」というワードが含まれる場合
           when /.*(明日|あした).*/
             # info[2]：明日の天気
