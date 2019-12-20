@@ -1,10 +1,11 @@
-# README
-
 ## サービス名
 傘リマインダー(大阪版)
 
 ## 概要
-雨が降る日の朝7時にLINEで通知するLINE botです
+雨が降る日(降水確率30%以上に設定)の朝7:30に自動通知するLINE botです
+
+## Demo
+[![Image from Gyazo](https://i.gyazo.com/e110b59d4416bbe7ad1d7951702d8c45.png)](https://gyazo.com/e110b59d4416bbe7ad1d7951702d8c45)
 
 ## バージョン
 Ruby：2.5.1  
