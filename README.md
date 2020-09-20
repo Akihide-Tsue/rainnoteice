@@ -6,6 +6,8 @@
 
 ## Demo
 [![Image from Gyazo](https://i.gyazo.com/e110b59d4416bbe7ad1d7951702d8c45.png)](https://gyazo.com/e110b59d4416bbe7ad1d7951702d8c45)
+[![Image from Gyazo](https://i.gyazo.com/9e273d5d74b5604984cdc1028161db5d.png)](https://gyazo.com/9e273d5d74b5604984cdc1028161db5d)
+ダウンロードはこちらから
 
 ## バージョン
 Ruby：2.5.1  
