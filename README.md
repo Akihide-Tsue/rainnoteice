@@ -6,7 +6,7 @@
 
 ## Demo
 [![Image from Gyazo](https://i.gyazo.com/e110b59d4416bbe7ad1d7951702d8c45.png)](https://gyazo.com/e110b59d4416bbe7ad1d7951702d8c45)
-[![Image from Gyazo](https://i.gyazo.com/9e273d5d74b5604984cdc1028161db5d.png)](https://gyazo.com/9e273d5d74b5604984cdc1028161db5d)
+[![Image from Gyazo](https://i.gyazo.com/9e273d5d74b5604984cdc1028161db5d.png)](https://gyazo.com/9e273d5d74b5604984cdc1028161db5d)  
 ダウンロードはこちらから
 
 ## バージョン
@@ -17,10 +17,7 @@ PostgreSQL：10.1
 ## リリース日
 2019.11.12
 
-## 作者
-津江明秀
-
-### その他 (天気アプリ作成プロジェクト)
+### その他 (天気アプリ作成)
 1.ターミナルで動く天気アプリ  
 Github: https://github.com/Akihide-Tsue/tenki.rb  
 例: https://gyazo.com/4d1c50e54001e12fb5af560ec23fd27f
@@ -29,7 +26,7 @@ Github: https://github.com/Akihide-Tsue/tenki.rb
   URL:https://tenki-news.herokuapp.com/  
   GitHub:https://github.com/Akihide-Tsue/news  
 
-3.今回のアプリ  
+3.傘リマインダーLINE BOT（このアプリ）  
   LINE友達ID: @744xeoxb　(無料枠のため50名限定)  
   例: https://gyazo.com/1c201866ad9a64026ecc1411564f0147
 
