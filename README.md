@@ -17,18 +17,8 @@ PostgreSQL：10.1
 ## リリース日
 2019.11.12
 
-### その他 (天気アプリ作成)
-1.ターミナルで動く天気アプリ  
-Github: https://github.com/Akihide-Tsue/tenki.rb  
-例: https://gyazo.com/4d1c50e54001e12fb5af560ec23fd27f
-
-2.railsでブラウザで動くお天気アプリを作成しました。  
-  URL:https://tenki-news.herokuapp.com/  
-  GitHub:https://github.com/Akihide-Tsue/news  
-
-3.傘リマインダーLINE BOT（このアプリ）  
-  LINE友達ID: @744xeoxb　(無料枠のため50名限定)  
-  例: https://gyazo.com/1c201866ad9a64026ecc1411564f0147
+LINE友達ID: @744xeoxb　(無料枠のため50名限定)  
+例: https://gyazo.com/1c201866ad9a64026ecc1411564f0147
 
 
 #### 備忘 (デプロイコマンド)
